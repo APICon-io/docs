@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Team DThreeLab
+* Durgesh Satyam - Founder APICon.io
 
 
 
